@@ -66,5 +66,6 @@ Just a chill Full Stack web developer looking for expanding his horizons
 peace brother
 </h3>
 
+![Wavy-glitch Text Effect](https://readme-effects-api-14364259052.us-central1.run.app/generate/wavy-glitch?text=My%20first%20project!!&pColor=00ff00&sColor=ff00ff&bgColor=transparent&font=Roboto&size=28&width=500&height=80)
 
 
