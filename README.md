@@ -4,23 +4,23 @@
     </a>
 </p>
 
-<h2 align="center">
-Just a chill Full Stack web developer looking for expanding his horizons
-</h2>
+## 🌐 About me?:
 
-<h3 align="center">
-<img src="/images/link-zelda.gif" width="170px" height="170px" />
-</h3>
+<p align="center">
+    <a href="https://github.com/shmach">
+    <img alt="Wavy-glitch Text Effect" src="https://readme-effects-api-14364259052.us-central1.run.app/generate/wavy-glitch?text=Just%20a%20chill%20Full%20Stack%20web%20developer;%20looking%20for%20expanding%20his%20horizons&pColor=00ff00&sColor=ff00ff&bgColor=transparent&font=Roboto&size=28&width=500&height=80" />
+    </a>
+</p>
 
 <a href="https://github.com/shmach">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 ## 🌐 Find me here:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salvesamukaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmachado0222) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/salvesamuka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/salvesamuka) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shmach_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmachado0222) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/salvesamuka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shmach_) 
 
 <h3 align="center">
-<img src="/images/dante-dmc.gif" width="498px" height="280px" />
+<img src="/images/link-zelda.gif" width="170px" height="170px" />
 </h3>
 <a href="https://github.com/shmach">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -54,9 +54,10 @@ Just a chill Full Stack web developer looking for expanding his horizons
                                                                                                                                              
 ## 🚀 My Favorites Projects
 
-(I still gonna add them here ...)
-
-(when I make them ...)
+- <a href="https://github.com/shmach/readme-effects">
+    <img alt="Wavy-glitch Text Effect" src="https://readme-effects-api-14364259052.us-central1.run.app/generate/wavy-glitch?text=Just%20a%20chill%20Full%20Stack%20web%20developer;%20looking%20for%20expanding%20his%20horizons&pColor=00ff00&sColor=ff00ff&bgColor=transparent&font=Roboto&size=28&width=500&height=80" />
+</a>
+    First project that I can say that I actually finish (although I wanted to add more animations, but decide to move on ...)
 
 <h3 align="center">
 <a href="https://open.spotify.com/intl-pt/track/0FcS0Cpz3tK1DLXIzr6iL2?si=1c7fd6b685534a91" target="_blank">
