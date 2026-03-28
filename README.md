@@ -54,10 +54,15 @@
                                                                                                                                              
 ## 🚀 My Favorites Projects
 
-1) <a href="https://github.com/shmach/readme-effects">
+<a href="https://github.com/shmach/readme-effects">
     <img alt="Wavy-glitch Text Effect" src="https://readme-effects-api-14364259052.us-central1.run.app/generate/wavy-glitch?text=Readme%2BEffects&pColor=00ff00&sColor=ff00ff&bgColor=transparent&font=Roboto&size=28&width=500&height=80" />
 </a>
     First project that I can say that I actually finish (although I wanted to add more animations, but decide to move on ...)
+
+
+<a href="https://github.com/shmach">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
 <h3 align="center">
 <a href="https://open.spotify.com/intl-pt/track/0FcS0Cpz3tK1DLXIzr6iL2?si=1c7fd6b685534a91" target="_blank">
