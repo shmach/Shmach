@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/shmach">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Sup,%20I%27m%20Shmach!;I+like+coding+things;And+I+am+bad+at+it;FVCK+VIBE+CODERS!;&font=Fira%20Code&center=true&width=640&height=45&color=2cb67d&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Sup,%20I%27m%20Shmach!;I+like+coding+things;And+I+am+bad+at+it;&font=Fira%20Code&center=true&width=640&height=45&color=2cb67d&vCenter=true&pause=1000&size=30" />
     </a>
 </p>
 
